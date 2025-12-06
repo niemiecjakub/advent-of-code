@@ -1,5 +1,5 @@
 ﻿
-using AdventOfCode.Day06;
+using AdventOfCode.Year2025.Day06;
 using System.Diagnostics;
 
 void WithStopwatch(Action action)

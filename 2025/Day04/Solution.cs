@@ -1,6 +1,4 @@
-﻿using System.Text;
-
-namespace AdventOfCode.Day04;
+﻿namespace AdventOfCode.Year2025.Day04;
 
 public class Solution
 {

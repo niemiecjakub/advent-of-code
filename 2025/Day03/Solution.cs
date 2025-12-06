@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace AdventOfCode.Day03;
+namespace AdventOfCode.Year2025.Day03;
 
 public class Solution
 {

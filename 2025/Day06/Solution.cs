@@ -1,8 +1,4 @@
-﻿using System;
-using System.Linq;
-using System.Text;
-
-namespace AdventOfCode.Day06;
+﻿namespace AdventOfCode.Year2025.Day06;
 
 public class Solution
 {
