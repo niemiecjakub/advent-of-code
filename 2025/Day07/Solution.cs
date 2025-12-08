@@ -4,7 +4,7 @@ public class Solution
 {
   public static void PartOne()
   {
-    var lines = File.ReadAllLines("2025/Day07/Input.txt")
+    var lines = File.ReadAllLines("2025/Day07/input.txt")
                     .Select(line => line.ToCharArray())
                     .ToArray();
 
@@ -42,7 +42,7 @@ public class Solution
 
   public static void PartTwo()
   {
-    var lines = File.ReadAllLines("2025/Day07/Input.txt")
+    var lines = File.ReadAllLines("2025/Day07/input.txt")
                         .Select(line => line.ToCharArray())
                         .ToArray();
 
